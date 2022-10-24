@@ -1,3 +1,4 @@
+// c program to check character vowel or constant 
 #include<stdio.h>
 #include<string.h>
 int main(){
